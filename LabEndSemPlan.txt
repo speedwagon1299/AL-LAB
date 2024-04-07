@@ -1,0 +1,48 @@
+[2. Intro]
+1. Euclid GCD
+2. Middle School GCD
+3. Hanoi
+
+[3. Brute Force - I]
+4. String Matching
+5. Partition Problem
+
+[4. Brute Force - II]
+6. Knapsack 0/1
+7. Assignment Problem
+8. DFS + Bipartite + Pop Order
+9. BFS + Bipartite
+10. Travelling Salesman
+
+[5. Decrease and Conquer]
+11. Insertion Sort
+12. TopoSort (Source Removal)
+13. Closest Common Ancestor
+
+[6. Divide and Conquer]
+14. Quick Sort
+15. Merge Sort + Inversion Pairs
+16. Finding a^n
+
+[7. Transform and Conquer - I]
+17. Binary Search Tree (iterative insertion and deletion)
+18. AVL Tree Insucc Inpred (iterative insertion)
+19. 2-3 Tree (iterative insertion)
+
+[8. Transform and Conquer - II]
+20. Heap Bottom-Up (from array)
+21. Heap Top-Down (iterative insertion)
+22. HeapSort
+
+[9. Space and Time Tradeoffs]
+23. Comparison Counting
+24. Distribution Counting
+25. Horspool's Algorithm
+26. Boyer-Moore's Algorithm
+27. Open Hash Table
+28. Closed Hash Table
+
+[10. Dynamic Programming]
+29. Binomial Coefficient
+30. Floyd's All Pairs Shortest Path
+31. Knapsack 0/1 Bottom-Up (cost and corresponding subset)
