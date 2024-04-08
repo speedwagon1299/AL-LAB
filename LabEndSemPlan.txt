@@ -10,7 +10,7 @@
 [4. Brute Force - II]
 6. Knapsack 0/1
 7. Assignment Problem
-8. DFS + Bipartite + Pop Order
+8. DFS + Bipartite + Pop Order + Cycle Detection
 9. BFS + Bipartite
 10. Travelling Salesman
 
